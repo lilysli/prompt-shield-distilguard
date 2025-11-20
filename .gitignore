@@ -6,3 +6,5 @@
 
 # Keep Jupyter notebooks
 !*.ipynb
+# Keep Python scripts
+!*.py
